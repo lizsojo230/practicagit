@@ -3,3 +3,8 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+
+Practica 2 de GIT
+
+Este es el cambio hecho en cabecera la rama cabecera
+
